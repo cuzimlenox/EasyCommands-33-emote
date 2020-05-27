@@ -1,5 +1,5 @@
 # EasyCommands +33 emote
-Allow your players to enter /info /help /rules and now new /emots. It's easy!!
+Allow your players to enter /info /help /rules and now new /emote. It's easy!!
 
 # Screen: https://imgur.com/a/4VRZcMP
 You can change everything in help-c.lua!
